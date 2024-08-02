@@ -5,7 +5,8 @@ internship task-4 at the Prodigy InfoTech.
 - Create a program that solves Sudoku puzzles automatically. The program should take an input grid representing an unsolved Sudoku puzzle and use an algorithm to fill in the missing numbers. It should use backtracking or other suitable techniques to explore possible solutions and find the correct arrangement of numbers for the puzzle. Once solved, the program should display the completed Sudoku grid.
 
 
-  **Overview**
+
+**Overview**
 - This project is a Sudoku Solver application developed in Python, designed to automatically solve Sudoku puzzles. The application uses a backtracking algorithm to find solutions and features a graphical user interface (GUI) built with Tkinter, allowing users to input unsolved puzzles and visualize the solutions.
 
 
